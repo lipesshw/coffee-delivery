@@ -1,6 +1,8 @@
 # 🖥️ Coffee-delivery
 
 <img src="/.github/project.png">
+<img src="/.github/project2.png">
+<img src="/.github/project3.png">
 
 # 📙 Sobre o projeto
 
