@@ -19,7 +19,7 @@ Aplicação desenvolvida como desafio do ignite feita a um tempo atrás. [REUP]
 1. Clone o repositório:
 ```bash
 git clone https://github.com/lipesshw/coffee-delivery
-cd weatherapp/
+cd coffee-delivery/
 ```
 
 2. Instale as dependências:
